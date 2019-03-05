@@ -3,4 +3,4 @@ target/
 .log
 /*/password.txt
 */*.jar
-
+*/.zip
